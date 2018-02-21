@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="node_radius">8dp</dimen>
+    <dimen name="line_stroke">3dp</dimen>
+    <dimen name="level_height">64dp</dimen>
+</resources>

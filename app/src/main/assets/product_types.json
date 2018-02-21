@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "name": "all",
+    "label": "All"
+  },
+  {
+    "id": "3",
+    "name": "dresses",
+    "label": "Dresses"
+  },
+  {
+    "id": "11",
+    "name": "tops",
+    "label": "Tops"
+  },
+  {
+    "id": "22",
+    "name": "jeans",
+    "label": "Jeans"
+  },
+  {
+    "id": "34",
+    "name": "bags",
+    "label": "Bags"
+  },
+  {
+    "id": "49",
+    "name": "shoes",
+    "label": "Shoes"
+  },
+  {
+    "id": "59",
+    "name": "outerwear",
+    "label": "Outerwear"
+  },
+  {
+    "id": "76",
+    "name": "bottoms",
+    "label": "Bottoms"
+  },
+  {
+    "id": "111",
+    "name": "activewear",
+    "label": "Activewear"
+  },
+  {
+    "id": "148",
+    "name": "swim",
+    "label": "Swim"
+  },
+  {
+    "id": "155",
+    "name": "maternity",
+    "label": "Maternity"
+  },
+  {
+    "id": "210",
+    "name": "accessories",
+    "label": "Accessories"
+  },
+  {
+    "id": "232",
+    "name": "suiting",
+    "label": "Suiting"
+  },
+  {
+    "id": "236",
+    "name": "weddings",
+    "label": "Weddings"
+  },
+  {
+    "id": "237",
+    "name": "weddings-wedding-dresses",
+    "label": "Wedding Dresses"
+  },
+  {
+    "id": "248",
+    "name": "weddings-bridal-veils",
+    "label": "Bridal Veils"
+  },
+  {
+    "id": "249",
+    "name": "weddings-bridal-jewelry-and-accessories",
+    "label": "Bridal Jewelry & Accessories"
+  },
+  {
+    "id": "266",
+    "name": "weddings-wedding-decorations",
+    "label": "Wedding Decorations"
+  },
+  {
+    "id": "282",
+    "name": "weddings-bridesmaids-dresses-and-mobs",
+    "label": "Bridesmaids Dresses & MOBs"
+  },
+  {
+    "id": "293",
+    "name": "weddings-grooms-and-groomsmen",
+    "label": "Grooms & Groomsmen"
+  },
+  {
+    "id": "303",
+    "name": "weddings-wedding-shoes",
+    "label": "Wedding Shoes"
+  },
+  {
+    "id": "312",
+    "name": "weddings-wedding-gifts",
+    "label": "Wedding Gifts"
+  },
+  {
+    "id": "326",
+    "name": "weddings-wedding-invitations-and-paper",
+    "label": "Wedding Invitations & Paper"
+  },
+  {
+    "id": "327",
+    "name": "weddings-wedding-miscellaneous",
+    "label": "Wedding Miscellaneous"
+  },
+  {
+    "id": "328",
+    "name": "listing-clothing",
+    "label": "Women's Clothing"
+  },
+  {
+    "id": "329",
+    "name": "listing-shoes-bags-accessories",
+    "label": "Shoes, Bags & Accessories"
+  }
+]

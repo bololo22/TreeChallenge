@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tradesy Admin</string>
+
+    <!-- Part 1 -->
+    <string name="part_one">Part One</string>
+
+    <!-- Part 2 -->
+    <string name="part_two">Part Two</string>
+    <string name="part_two_dft">DFT</string>
+    <string name="part_two_bft">BFT</string>
+
+    <!-- Part 3 & 4 -->
+    <string name="part_three">Part Three</string>
+</resources>
